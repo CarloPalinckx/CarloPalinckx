@@ -20,7 +20,7 @@ Won't you stay a while and listen? I go by the name of Carlo and hail from a sma
 <br />
 
 <p align=center>
-  🔥&nbsp;&nbsp;&nbsp;&nbsp;It's dangerous to go alone! take this.&nbsp;&nbsp;&nbsp;&nbsp;🔥
+  🔥&nbsp;&nbsp;&nbsp;&nbsp;It's dangerous to go alone! take this.&nbsp;&nbsp;&nbsp;🔥
   <br /><br />
   @xxx[{::::::::::::>
 </p>
