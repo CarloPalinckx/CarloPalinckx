@@ -19,12 +19,9 @@ My allegiance is currently pledged to [__@myonlinestore__](https://github.com/My
 
 #### I contribute to some open-source allies 🛡
 Check the list of pinned repo's on my profile.
-
-<br />
-<br />
-<br />
-<br />
-
+<br /><br /><br />
+Thanks for stopping by, safe travels! 👋
+<br /><br /><br /><br />
 <!-- For your own sake, please look away 🙈 -->
 <p align=center>
   ╔═════════════════════════════════╗<br />
