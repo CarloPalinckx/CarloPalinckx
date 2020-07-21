@@ -22,5 +22,5 @@ Won't you stay a while and listen? I go by the name of Carlo and hail from a sma
 <p align=center>
   🔥&nbsp;&nbsp;&nbsp;&nbsp;It's dangerous to go alone! take this&nbsp;&nbsp;&nbsp;&nbsp;🔥
   <br /><br />
-  @xxx[::::::::::::>
+  @xxx[{::::::::::::>
 </p>
