@@ -9,7 +9,7 @@ Won't you stay a while and listen? I go by the name of Carlo and hail from a sma
 - [Adapting to an ever changing environment](https://dev.to/myonlinestore/adapting-to-an-ever-changing-environment-4493)
 - [How to automate your github workflow and go home early](https://dev.to/myonlinestore/how-to-automate-your-github-workflow-and-go-home-early-19e5)
 
-#### You can send for me through 📯
+#### You can summon for me through 📯
 - [The blue eagle (@CarloPalinckx)](https://twitter.com/CarloPalinckx)
 - [The feline octopus (@CarloPalinckx)](https://github.com/CarloPalinckx)
 - [By carrier pigeon (carlopalinckx@gmail.com)](mailto:carlopalinckx@gmail.com)
