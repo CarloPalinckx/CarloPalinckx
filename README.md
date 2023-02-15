@@ -4,7 +4,7 @@
 
 Won't you stay a while and listen? I go by the name of Carlo and hail from a small town called Etten-Leur in The Netherlands. I tinker on the world wide web by day and enjoy the realm of DX and tooling by night. Besides programming I enjoy building mechanical keyboards, playing a game of chess, brewing a sick pot of coffee and cooking a hearty meal.
 <br /><br />
-My allegiance is currently pledged to [__@myonlinestore__](https://github.com/MyOnlineStore)
+My allegiance is currently pledged to Basic-Fit
 
 #### I occasionally write down some of my tales 📜
 
